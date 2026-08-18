@@ -52,7 +52,9 @@ npm install
 npm run dev
 ```
 
-起動後、ブラウザで [http://localhost:3000](http://localhost:3000) を開きます。
+起動後、ブラウザで `http://localhost:3000` を開きます。
+
+> `localhost` はローカル開発専用のアドレスです。公開サイトは [https://thweportfolio.vercel.app](https://thweportfolio.vercel.app) からご覧いただけます。
 
 ## ビルド
 
